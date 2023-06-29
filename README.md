@@ -1,2 +1,2 @@
-# README.md
-Distributed Ultranet
+# YP
+Ultranet Computing
